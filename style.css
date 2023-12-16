@@ -663,8 +663,8 @@ footer a:hover {
     }
   
     .timeline li .timeline-panel {
-      width: 50%;
-      transform: translateX(-20px);
+        width: 240px;
+        transform: translateX(-20px);
     }
   
     .timeline li .timeline-panel::before {
